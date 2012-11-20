@@ -1,0 +1,6 @@
+name = Custom login
+description = The test custom login module.
+package = VEC Development
+core = 7.x
+
+files[] = custom_login.module
